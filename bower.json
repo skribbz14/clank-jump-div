@@ -1,0 +1,15 @@
+{
+  "name": "clank-jump-div",
+  "main": "clank-jump-div.js",
+  "version": "0.1",
+  "homepage": "https://github.com/skribbz14/clank-jump-div",
+  "authors": [
+    "skribbz14 <kyle@looseygooseyart.com>"
+  ],
+  "description": "Clank Jump Div is an AngularJS 1.x module to create an element called <clank-jump-div> which binds to an element and will swap positions with that element, in the DOM, at a defined breakpoint.",
+  "keywords": [
+    "AngularJS",
+    "Clank"
+  ],
+  "license": "MIT"
+}
