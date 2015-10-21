@@ -16,7 +16,7 @@ Next you will need to define the breakpoint at which the jump div will be trigge
 ```
 
 #### Bind the jumping element
-To bind an element to the &lt;clank-jump-div&gt; apply the jump-to-div="ID" attribute to the element and replace the ID with the &lt;clank-jump-div id="jump_1"&gt; id attribute.
+Finally you will need to bind an element to the &lt;clank-jump-div&gt; by applying the "jump-to-div" attribute to the element.
 ```html
 <button jump-to-div="jump_test">TEST</button> 
 ```
