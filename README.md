@@ -14,6 +14,7 @@ Next you will need to define the breakpoint at which the jump div will be trigge
 ```html
 <clank-jump-div id="jump_test" jump-width="768" jump-height="600">
 ```
+In the above example the jump will happen when the screen width is larger than 768 AND the screen height is larger than 600.
 
 #### Bind the jumping element
 Finally you will need to bind an element to the &lt;clank-jump-div&gt; by applying the "jump-to-div" attribute to the element.
